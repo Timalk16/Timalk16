@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Timofey 👋
 
-<!--
-**Timalk16/Timalk16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Itmo student
 
-Here are some ideas to get you started:
+**`Devoleper from Russia`**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+(https://vk.com/timalk16)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timalk16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### View my stats on Github
+[![Timalk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timalk16)](https://github.com/anuraghazra/github-readme-stats)
+
+### Pinned
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
