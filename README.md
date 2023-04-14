@@ -1,18 +1,20 @@
-# Hi there, I'm Timofey 👋
+# Hi there, I'm Timofei 👋
 
-## Itmo student
+## ITMO student and self-taught developer
 
-**`Devoleper from Russia`**
+**`Developer from Russia`**
 
 ## Get in touch
-(https://vk.com/timalk16)![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+### in progress
 
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timalk16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timalk16&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### View my stats on Github
-[![Timalk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timalk16)](https://github.com/anuraghazra/github-readme-stats)
+![Timalk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timalk16&show_icons=true&theme=radical)
 
 ### Pinned
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+in progress
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Timalk16&repo=github-repair-project&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
